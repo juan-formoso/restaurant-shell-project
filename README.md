@@ -8,7 +8,7 @@ This is a simple project that I made because I was hella bored and it's exactly 
  
  > Shell Script
 
-* Para rodar a aplicação:
+* Run the project:
 
   ```
   bash restaurant.sh
