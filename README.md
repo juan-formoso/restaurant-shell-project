@@ -1,1 +1,15 @@
-# restaurant-shell-project
+# Fast Food Restaurant Management System
+
+# Description
+
+This is a simple project that I made because I was hella bored and it's exactly what the title says.
+
+## Technologies used:
+ 
+ > Shell Script
+
+* Para rodar a aplicação:
+
+  ```
+  bash restaurant.sh
+  ```
